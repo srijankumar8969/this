@@ -5,7 +5,7 @@
     transition: all 1s;
 }
 body{
-    background-color: black;
+    background-color: white;
 }
 #groove{
     background-color: rgb(0, 0, 0);
@@ -18,10 +18,10 @@ body{
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    
+     
 }
 #slider{
-    background-color: rgb(113, 113, 157);
+    background-color: white;
     width: 18px;
     height:18px ;
     margin-top: 1px;
