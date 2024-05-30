@@ -2,9 +2,9 @@
     margin:0px;
     padding: 0px;
     box-sizing: border-box;
-    transition: all 1s;
 }
 body{
+    transition: 1s;
     background-color: black;
 }
 #groove{
